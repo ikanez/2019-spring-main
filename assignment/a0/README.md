@@ -6,18 +6,18 @@ This assignment is a quick walk-through to help you get set up logistically for 
 
 If you haven't yet, please:
 
-- Sign up for [Piazza](https://piazza.com/berkeley/fall2018/datasciw266)
+- Sign up for [Piazza](https://piazza.com/berkeley/spring2019/datasciw266)
 
 Now we'll get you all set up with the software packages and the course GitHub.
 
 1. [Setup](https://calmail.berkeley.edu/manage/account/create_account) a @berkeley.edu account setup if you don't already have one (@ischool.berkeley.edu is insufficient!)
 
 1. **Set up your computing environment:** We recommend using a Google Cloud Compute instance. We have $50 of credits available per student, and it should only take a few minutes to set up by following [our Cloud guide](cloud/).  
-If you prefer to work on your own laptop/desktop/server (including AWS), we strongly recommend Ubuntu 16.04 with Anaconda 5.0.1 (Python 3.6) as your Python distribution. Be sure to install **TensorFlow version 1.10.1**, as the TensorFlow APIs tend to break between versions.  
+If you prefer to work on your own laptop/desktop/server (including AWS), we strongly recommend looking through the cloud setup script and matching versions as closely as possible.
 *(Note that due to the variety of systems out there, we can only provide official support for Google Cloud instances.)*
 
 2. **Clone the course repo** (if you didn't already in the Cloud guide) with:  
-`git clone https://github.com/datasci-w266/2018-fall-main.git ~/w266`  
+`git clone https://github.com/datasci-w266/2019-spring-main.git ~/w266`  
 You may also want to do this on your laptop to have a local copy.  
 
 3. **Answer the questions in the `answers`** file in the `assignment/a0`directory.  (If you wish, you can run the presubmit script, answers\_test.py, yourself.  The submit script below will also run these before it pushes.  Unlike in future assignments, these presubmits check your answers for you.)

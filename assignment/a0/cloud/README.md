@@ -18,7 +18,7 @@ Accounts, Projects and Billing
 ![Create project](screenshots/3-newprojectdetails-adv-options.png "Create project")
 
 *  Create a new browser tab.
-*  In the new tab, visit http://google.force.com/GCPEDU?cid=Yjdg0HJCo6%2BF3yPNBXHHUOaQr6OBSmIMn%2FVukswhijYLNE%2FlQelYgukfjenf14%2Ba/ request a coupon, and follow the instructions.
+*  In the new tab, visit https://google.secure.force.com/GCPEDU?cid=WG3uXU3TbfZFDx9r6fnC%2FfmObOtBnuWzrSyUurI3Zm5hMNTJ65nX0ocj4bCGL5uD request a coupon, and follow the instructions.
 *  Switch back to the original tab.
 *  From the "hamburger" menu in the upper left corner, select Billing.
 
@@ -58,7 +58,7 @@ In your terminal **on the remote instance**, type the following.
 
 ```
 sudo apt-get install git
-git clone https://github.com/datasci-w266/2018-fall-main.git ~/w266
+git clone https://github.com/datasci-w266/2019-spring-main.git ~/w266
 ./w266/assignment/a0/cloud/setup.sh
 source ~/.bashrc
 ```

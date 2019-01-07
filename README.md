@@ -11,7 +11,7 @@ summarization.
 
 ## Links:
 
-* [Piazza](https://piazza.com/berkeley/fall2018/datasciw266)
+* [Piazza](https://piazza.com/berkeley/spring2019/datasciw266)
 * [Syllabus](syllabus/)
 * [Assignments](assignment/)
 * [Project](project/)
