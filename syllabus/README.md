@@ -29,7 +29,7 @@ Understanding language is fundamental to human interaction. Our brains have evol
 **Teaching Staff Office Hours:**
 
 * **Daniel Cer**: Wednesday at noon Pacific.
-* **Drew Plant / Legg Yeung**: Saturday at 1:30 - 2:30pm Pacific.
+* **Annie Lane / Legg Yeung / Drew Plant**: Friday at noon Pacific.
 * **Blake Lemoine**: Wednesday immediately after his live session (8pm Pacific).
 * **Joachim Rahmfeld**: Thursday immediately after his live session (5:30pm Pacific).
 * **Mark Butler**: Thursday immediately after his live session (8pm Pacific).
