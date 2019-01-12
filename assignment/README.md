@@ -6,14 +6,14 @@ Each assignment is due at 11:59pm Pacific on Sundays, unless otherwise stated.
 
 ### Weighting
 
-Weighting of assignments:
+Approximate weighting of assignments:
 
 * A0: 0%
-* A1 (TensorFlow): 25%
-* A2 (Classification): 25%
-* A3 (Language Modeling): 35%
-* A4 (Part of Speech Tagging): 15%
-* A5 (Parsing): Optional
+* A1 (TensorFlow): 20%
+* A2 (Classification): 20%
+* A3 (Embeddings): 10%
+* A4 (Language Modeling): 30%
+* A5 (TBD): 20%
 
 ### Collaboration policy
 
