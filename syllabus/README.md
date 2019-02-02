@@ -125,6 +125,111 @@ We'll update the table below with assignments as they become available, as well 
 
 ### Live Session Slides: [[available here](https://drive.google.com/drive/folders/17MZKuW3JGyF-UT-dRoWQthZuLQqY2Lyp?usp=sharing)]
 
+### Deliverables
+
+<table>
+<tr>
+<th></th><th>Topic</th><th>Release</th><th>Deadline</th>
+</tr>
+<tr>
+  <td><strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
+  <td><strong>Course Set-up</strong>
+  <ul>
+    <li>GitHub
+    <li>Piazza
+    <li>Google Cloud
+  </ul></td>
+  <td>January&nbsp;7</td>
+  <td>January&nbsp;13</td>
+</tr>
+<tr>
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Background and TensorFlow</strong>
+  <ul>
+  <li>Information Theory
+  <li>Dynamic Programming
+  <li>TensorFlow Introduction
+  </ul></td>
+  <td>January&nbsp;11</td>
+  <td>January&nbsp;20</td>
+</tr>
+
+<tr>
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Word Embeddings</strong>
+  <ul>
+    <li>GloVe
+    <li>Fairness
+  </ul></td>
+  <td>February&nbsp;2</td>
+  <td>February&nbsp;17</td>
+</tr>
+
+<tr>
+  <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
+  <br>due&nbsp;February&nbsp;17</td>
+  <td></td>
+  <td></td>
+  <td>
+  <strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
+  </td>
+</tr>
+
+<tr>
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Classification</strong>
+  <ul>
+    <li>Count based
+    <li>Neural bag of words
+    <li>Convolutional Neural Networks
+  </ul></td>
+  <td>February&nbsp;15</td>
+  <td>March&nbsp;3</td>
+</tr>
+
+<tr>
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Language Models</strong>
+  <ul>
+    <li>Count based
+    <li>Recurrent Neural Networks
+  </ul></td>
+  <td>March&nbsp;1</td>
+  <td>March&nbsp;17</td>
+</tr>
+  
+<tr>
+  <td><strong><a href="../assignment/a5" target="_blank">Assignment&nbsp;5</a></strong>
+  <td><strong>TBD</strong>
+  <ul>
+    <li>TBD
+  </ul></td>
+  <td>March&nbsp;15</td>
+  <td>March&nbsp;31</td>
+</tr>
+
+<tr><!--- Project Reports -->
+  <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
+  <br><strong>due April&nbsp;12<br>(hard deadline)</strong>
+  </td>
+  <td></td>
+  <td></td>
+  <td><strong><a href="../project/#final-submission" target="_blank">Final Project Guidelines</a></strong>
+  </td>
+</tr>
+<tr><!--- Project Presentations -->
+  <td><strong><a href="../project/#presentations" target="_blank">Project&nbsp;Presentations</a></strong>
+  <br>in-class April&nbsp;15-21</td>
+  <td></td>
+  <td></td>
+  <td><strong><a href="../project/#presentations" target="_blank">Final Project Guidelines</a></strong>
+  </td>
+</tr>
+</table>
+
+
+### Course Schedule
+
 <table>
 <tr>
 <th></th>
@@ -158,18 +263,6 @@ We'll update the table below with assignments as they become available, as well 
   <!-- <a href="../materials/week1/TensorFlow%20Tutorial.ipynb" target="_blank">[TensorFlow&nbsp;Intro&nbsp;notebook]</a> -->
   </td>
 </tr>
-<tr><!--- Assignment 0 -->
-  <td><strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>
-  <br>released&nbsp;January&nbsp;7
-  <br>due&nbsp;January&nbsp;13</td>
-  <td><strong>Course Set-up</strong></td>
-  <td><ul>
-    <li>GitHub
-    <li>Piazza
-    <li>Google Cloud
-  </ul></td>
-  <td><a href="../assignment/a0" target="_blank">Assignment 0</a></td>
-</tr>
 <tr><!--- Sentiment/Classification -->
   <td><strong>Week&nbsp;2</strong><br>(January&nbsp;14&nbsp;-&nbsp;20)</td>
   <td>Classification and Sentiment (up to 2.6)
@@ -185,18 +278,6 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/" target="_blank">Understanding Convolutional Neural Networks for NLP</a>
   <li>Read: <a href="https://arxiv.org/abs/1408.5882" target="_blank">Convolutional Neural Networks for Sentence Classification</a> (Yoon Kim, 2014)
   <li><em>Optional:</em> <a href="https://arxiv.org/pdf/1103.0398v1.pdf" target="_blank">Natural Language Processing (almost) from Scratch</a> (Collobert et al., 2011)
-</tr>
-<tr><!--- TF and Info Theory Assignment -->
-  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
-  <br>released&nbsp;January&nbsp;11
-  <br>due&nbsp;January&nbsp;20</td>
-  <td><strong>Background and TensorFlow</strong></td>
-  <td><ul>
-  <li>Information Theory
-  <li>Dynamic Programming
-  <li>TensorFlow Introduction
-  </ul></td>
-  <td><a href="../assignment/a1" target="_blank">Assignment 1</a></td>
 </tr>
 <tr><!--- Sentiment/Classification -->
   <td><strong>Week&nbsp;3</strong><br>(January&nbsp;21&nbsp;-&nbsp;27)</td>
@@ -291,16 +372,6 @@ We'll update the table below with assignments as they become available, as well 
   <li><em>Optional:</em> <a href="https://arxiv.org/abs/1609.08144" target="_blank">Google’s Neural Machine Translation System</a>
   <li><em>Optional:</em> <a href="http://distill.pub/2016/augmented-rnns/#attentional-interfaces" target="_blank">Attention and Augmented Recurrent Neural Networks</a> (section on “Attentional Interfaces” has an awesome visualization of an MT example, showing alignments)
   </ul></td>
-<tr>
-<!--- Project Proposal -->
-  <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
-  <br>due&nbsp;February&nbsp;17</td>
-  <td></td>
-  <td></td>
-  <td>
-  <strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
-  </td>
-</tr>
 <tr>
   <td><strong>Week&nbsp;8</strong><br>(February&nbsp;25&nbsp;-&nbsp;March&nbsp;3)</td>
   <td>Summarization</td>
@@ -409,21 +480,4 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 
-<tr><!--- Project Reports -->
-  <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
-  <br><strong>due April&nbsp;12<br>(hard deadline)</strong>
-  </td>
-  <td></td>
-  <td></td>
-  <td><strong><a href="../project/#final-submission" target="_blank">Final Project Guidelines</a></strong>
-  </td>
-</tr>
-<tr><!--- Project Presentations -->
-  <td><strong><a href="../project/#presentations" target="_blank">Project&nbsp;Presentations</a></strong>
-  <br>in-class April&nbsp;15-21</td>
-  <td></td>
-  <td></td>
-  <td><strong><a href="../project/#presentations" target="_blank">Final Project Guidelines</a></strong>
-  </td>
-</tr>
 </table>

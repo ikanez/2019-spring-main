@@ -1,0 +1,52 @@
+## Write your short answers in this file, replacing the placeholders as appropriate.
+
+## Embeddings ##
+
+embedding_a2_closest_word: foo
+
+embedding_a2_sense:
+- only one sense
+- meaning of multiple senses
+
+embedding_a3: your answer
+
+# "A is to B as C is to D"
+embedding_b2_singular: A : B :: C : D
+embedding_b2_superlatives: A : B :: C : D
+embedding_b2_tense: A : B :: C : D
+embedding_b2_capital: A : B :: C : D
+
+embedding_b3_dog_is_to: answer
+embedding_b3_toe_is_to: answer
+embedding_b3_written_answers: answer
+
+
+## ML Fairness ##
+#
+
+ml_racist_1_sentiment:  0.0
+
+ml_racist_2_bias_rank:
+# Most
+- Concept
+- GloVe
+- Word2Vec
+# Least
+
+ml_racist_3_technique:
+# Keep  the right answer(s).
+- Adversarial training
+- Bias Risk Reduction
+- Debiasing Word Embeddings
+
+ml_debias_1_table_1: Your answer
+ml_debias_2_stages: 
+- Your answer (stage 1)
+- Your answer (stage 2)
+
+ml_debias_3: Option
+
+ml_adversarial_1_parity: Your answer
+ml_adversarial_2_equality: Your answer
+ml_adversarial_3_j_lambda: Your answer
+
