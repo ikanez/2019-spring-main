@@ -10,8 +10,8 @@ Approximate weighting of assignments:
 
 * A0: 0%
 * A1 (TensorFlow): 20%
-* A2 (Classification): 20%
-* A3 (Embeddings): 10%
+* A2 (Embeddings): 10%
+* A3 (Classification): 20%
 * A4 (Language Modeling): 30%
 * A5 (TBD): 20%
 

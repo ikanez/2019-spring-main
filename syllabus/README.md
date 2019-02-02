@@ -167,12 +167,11 @@ We'll update the table below with assignments as they become available, as well 
 
 <tr>
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
-  <br>due&nbsp;February&nbsp;17</td>
-  <td></td>
-  <td></td>
   <td>
   <strong><a href="../project" target="_blank">Final Project Guidelines</a></strong>
   </td>
+  <td></td>
+  <td>February&nbsp;17</td>
 </tr>
 
 <tr>
