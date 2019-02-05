@@ -2,7 +2,9 @@
 
 ## Embeddings ##
 
-embedding_a2_closest_word: foo
+embedding_a2_closest_word_bank: foo
+embedding_a2_closest_word_plane: foo
+embedding_a2_closest_word_flies: foo
 
 embedding_a2_sense:
 - only one sense
