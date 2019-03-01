@@ -388,8 +388,25 @@ We'll update the table below with assignments as they become available, as well 
   <p>
   </td>
 </tr>
-<tr><!--- POS Tagging -->
+<tr><!--- Entities -->
   <td><strong>Week&nbsp;9</strong><br>(March&nbsp;4&nbsp;-&nbsp;March&nbsp;10)</td>
+  <td>Entities</td>
+  <td><ul>
+  <li>From syntax to semantics
+  <li>Named Entity Recognition
+  <li>Coreference Resolution
+  </ul></td>
+  <td><ul>
+  <li>Read: <a href="http://www.nltk.org/book/ch07.html" target="_blank">NLTK Book Chapter 7 (Extracting Information from Text)</a>
+  <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/D09-1120" target="_blank">Simple Coreference Resolution with Rich Syntactic and Semantic Features</a> (Haghighi and Klein 2009, rule-based coreference)
+  <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/P16-1061" target="_blank">Improving Coreference Resolution by Learning Entity-Level Distributed
+  Representations</a> (Clark and Manning 2016, neural coreference)
+  </ul>
+  <p>
+  </td>
+</tr>
+<tr><!--- POS Tagging -->
+  <td><strong>Week&nbsp;10</strong><br>(March&nbsp;11&nbsp;-&nbsp;17)</td>
   <td><a href="https://www.youtube.com/playlist?list=PLh1VT8Lm3apRPGB1uKZsMyMt1DmUf_ItE">Part of Speech Supplementary Videos</a></td>
   <td><ul>
   <li>Tag sets
@@ -409,7 +426,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Dependency Parsing -->
-  <td><strong>Week&nbsp;10</strong><br>(March&nbsp;11&nbsp;-&nbsp;17)</td>
+  <td><strong>Week&nbsp;11</strong><br>(March&nbsp;18&nbsp;-&nbsp;24)</td>
   <td>Dependency Parsing</td>
   <td><ul>
   <li>Dependency trees
@@ -425,7 +442,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Constituency Parsing -->
-  <td><strong>Week&nbsp;11</strong><br>(March&nbsp;18&nbsp;-&nbsp;24)</td>
+  <td><strong>Week&nbsp;12</strong><br>(March&nbsp;25&nbsp;-&nbsp;31)</td>
   <td>Constituency Parsing</td>
   <td><ul>
   <li>Context-free grammars (CFGs)
@@ -444,7 +461,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Information Retrieval -->
-  <td><strong>Week&nbsp;12</strong><br>(March&nbsp;25&nbsp;-&nbsp;31)</td>
+  <td><strong>Week&nbsp;13</strong><br>(April&nbsp;1&nbsp;-&nbsp;7)</td>
   <td>Information Retrieval</td>
   <td><ul>
   <li>Building a Search Index
@@ -457,23 +474,6 @@ We'll update the table below with assignments as they become available, as well 
   <li>Read: <a href="http://infolab.stanford.edu/~backrub/google.html" target="_blank">The Anatomy of a Large-Scale Hypertextual Web Search Engine</a>
   <li>Skim: <a href="http://nlp.stanford.edu/IR-book/pdf/irbookprint.pdf" target="_blank">"An Introduction to Information Retrieval", sections 6.2 and 6.3</a>
   <li><em>Optional:</em> <a href="http://ilpubs.stanford.edu:8090/422/1/1999-66.pdf" target="_blank">PageRank</a> (Page, et al. 1999)
-  </ul>
-  <p>
-  </td>
-</tr>
-<tr><!--- Entities -->
-  <td><strong>Week&nbsp;13</strong><br>(April&nbsp;1&nbsp;-&nbsp;7)</td>
-  <td>Entities</td>
-  <td><ul>
-  <li>From syntax to semantics
-  <li>Named Entity Recognition
-  <li>Coreference Resolution
-  </ul></td>
-  <td><ul>
-  <li>Read: <a href="http://www.nltk.org/book/ch07.html" target="_blank">NLTK Book Chapter 7 (Extracting Information from Text)</a>
-  <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/D09-1120" target="_blank">Simple Coreference Resolution with Rich Syntactic and Semantic Features</a> (Haghighi and Klein 2009, rule-based coreference)
-  <li><em>Optional:</em> <a href="http://www.aclweb.org/anthology/P16-1061" target="_blank">Improving Coreference Resolution by Learning Entity-Level Distributed
-  Representations</a> (Clark and Manning 2016, neural coreference)
   </ul>
   <p>
   </td>
