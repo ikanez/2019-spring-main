@@ -194,7 +194,7 @@ We'll update the table below with assignments as they become available, as well 
     <li>Recurrent Neural Networks
   </ul></td>
   <td>March&nbsp;1</td>
-  <td>March&nbsp;17</td>
+  <td>March&nbsp;24</td>
 </tr>
   
 <tr>
@@ -203,8 +203,8 @@ We'll update the table below with assignments as they become available, as well 
   <ul>
     <li>TBD
   </ul></td>
-  <td>March&nbsp;15</td>
-  <td>March&nbsp;31</td>
+  <td>March&nbsp;22</td>
+  <td>April&nbsp;6</td>
 </tr>
 
 <tr><!--- Project Reports -->
