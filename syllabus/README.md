@@ -442,7 +442,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Constituency Parsing -->
-  <td><strong>Week&nbsp;12</strong><br>(March&nbsp;25&nbsp;-&nbsp;31)</td>
+  <td><strong>Week&nbsp;12</strong><br>(April&nbsp;1&nbsp;-&nbsp;7)</td>
   <td>Constituency Parsing</td>
   <td><ul>
   <li>Context-free grammars (CFGs)
@@ -461,7 +461,7 @@ We'll update the table below with assignments as they become available, as well 
   </td>
 </tr>
 <tr><!--- Information Retrieval -->
-  <td><strong>Week&nbsp;13</strong><br>(April&nbsp;1&nbsp;-&nbsp;7)</td>
+  <td><strong>Week&nbsp;13</strong><br>(April&nbsp;8&nbsp;-&nbsp;14)</td>
   <td>Information Retrieval</td>
   <td><ul>
   <li>Building a Search Index
